@@ -3,7 +3,6 @@ const onClick = document.querySelector(".button")
 const jokes = [
     "What rock group has four men that don't sing? Mount Rushmore.",
     "When I was a kid, my mother told me I could be anyone I wanted to be. Turns out, identity theft is a crime.",
-    "A guy goes to his doctor because he can see into the future. The doctor asks him,\"How long have you suffered from that condition?\" The guy tells him, \"Since next Monday.\"",
     "What do sprinters eat before a race? Nothing, they fast!",
     "What concert costs just 45 cents? 50 Cent featuring Nickelback!",
     "What do you call a mac 'n' cheese that gets all up in your face? Too close for comfort food!",
