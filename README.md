@@ -1,6 +1,6 @@
-# Random Quote Generator
+# Random Joke Generator
 
-Random Quote Generator for a blog post. 
+Random Joke Generator for a blog post. 
 
 To view tutorial go here: 
 
